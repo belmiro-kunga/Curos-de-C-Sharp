@@ -6,7 +6,9 @@ namespace Curos_de_C_Sharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("Hello World!");
+            Console.Write("Hello World!1");
+            Console.Write("Hello World2!");
         }
     }
 }
