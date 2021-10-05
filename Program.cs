@@ -7,15 +7,11 @@ namespace Curos_de_C_Sharp
         static void Main(string[] args)
         {
 
-        int numero = 20;
-        numero = 30;
-
-
-
-            Console.WriteLine(numero); 
-           
-           
-            
+ 
+      Console.WriteLine("Qual é o seu Nome ? ");
+       string nome = Console.ReadLine();
+        Console.WriteLine("O seu Nome é " + nome);
+        
         }
     }
-} 
+}
