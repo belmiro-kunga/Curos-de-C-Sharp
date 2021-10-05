@@ -7,10 +7,9 @@ namespace Curos_de_C_Sharp
         static void Main(string[] args)
         {
 
- 
-      Console.WriteLine("Qual é o seu Nome ? ");
-       string nome = Console.ReadLine();
-        Console.WriteLine("O seu Nome é " + nome);
+ int numeroSoma = 20 + 34 - 54;
+ Console.WriteLine(numeroSoma);
+     
         
         }
     }
