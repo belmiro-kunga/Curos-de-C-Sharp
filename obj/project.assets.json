@@ -20,12 +20,14 @@
       "outputPath": "C:\\Users\\Proativa\\Documents\\GitHub\\Curos-de-C-Sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Proativa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Proativa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
