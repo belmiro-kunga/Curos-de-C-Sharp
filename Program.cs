@@ -7,10 +7,13 @@ namespace Curos_de_C_Sharp
         static void Main(string[] args)
         {
 
- int numeroSoma = 20 + 34 - 54;
- Console.WriteLine(numeroSoma);
+            //C# Estrutura de Condição
      
         
+        Console.WriteLine( x <= y);
+        
+     
+       
         }
     }
 }
