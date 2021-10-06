@@ -7,10 +7,17 @@ namespace Curos_de_C_Sharp
         static void Main(string[] args)
         {
 
-            //C# Estrutura de Condição
-     
+            //C# Operador Logico
+
+            int a = 1;
+
+            int b = 3;
+            if(a == 1 && b == 3){
+
+
+            }
         
-        Console.WriteLine( x <= y);
+       
         
      
        
