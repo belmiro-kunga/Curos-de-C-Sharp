@@ -1,26 +1,20 @@
 ﻿using System;
 
 namespace Curos_de_C_Sharp
+
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
+      // Type your username and press enter
+      Console.WriteLine("Enter username:");
 
-            //C# Operador Logico
+      // Create a string variable and get user input from the keyboard and store it in the variable
+      string userName = Console.ReadLine();
 
-            int a = 1;
-
-            int b = 3;
-            if(a == 1 && b == 3){
-
-
-            }
-        
-       
-        
-     
-       
-        }
+      // Print the value of the variable (userName), which will display the input value
+      Console.WriteLine("Username is: " + userName);
     }
+  }
 }
