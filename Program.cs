@@ -7,7 +7,7 @@ namespace Curos_de_C_Sharp
   {
     static void Main(string[] args)
     {
-      
+      Console.ReadLine("Escre qual  uer coisa");
       Console.WriteLine("Introduza um Nome:");
 
       string userName = Console.ReadLine();
